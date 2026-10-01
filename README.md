@@ -6,4 +6,4 @@ Open it here (after GitHub Pages finishes, about a minute):
 
 https://jonathanravid.github.io/core-reactor-guide/
 
-Or download this repository, unzip it, and open `index.html` in a browser.
+Or download this repository and open `index.html` through any static file server. Do not open the file directly from the desktop; the browser will block the script.
